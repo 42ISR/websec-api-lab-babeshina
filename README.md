@@ -1,4 +1,4 @@
-# %СЮДА_ВСТАВИТЬ_ВАШ_САБДОМЕН/api/marketplace%
+# https://babeshinau.kitek-pg.ru/api/marketplace/items
 
 # Лабораторная: Деплой API
 
